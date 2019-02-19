@@ -23,6 +23,7 @@ public class Deque {
     bool  isEmpty();
     int  getFront();
         int  getRear();*/
+
         public boolean isEmpty(){
             if(front==-1){
                 return true;
