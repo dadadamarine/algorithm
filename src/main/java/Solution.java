@@ -37,6 +37,8 @@ public class Solution {
             latestUser=user;
             return;
         }
+        System.out.println((now.getTime()-latest.getTime())/1000);
+
         if(((now.getTime()-latest.getTime())/1000>=60) && !latestUser.equals("") ){
             successer.add(latestUser);
         }
