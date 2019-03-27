@@ -1,7 +1,9 @@
+package backjoon;
+
 import java.io.*;
 import java.util.Arrays;
 
-public class Main {
+public class B11021 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -9,7 +11,7 @@ public class Main {
         int num = Integer.parseInt(br.readLine());
         for(int i=1; i<=num; i++){
             bw.write(getAnswer(i,
-                            Arrays.stream(br.readLine().split(" "))
+                    Arrays.stream(br.readLine().split(" "))
                             .mapToInt(Integer::parseInt)
                             .toArray())+"\n");
         }
