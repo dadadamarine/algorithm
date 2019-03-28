@@ -1,7 +1,8 @@
+package backjoon;
 import java.io.*;
 import java.util.Arrays;
 
-public class Main {
+public class B14581 {
     private static final int MATRIX_SIZE = 3;
 
     public static void main(String[] args) throws IOException {
