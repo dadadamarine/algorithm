@@ -1,8 +1,10 @@
+package backjoon;
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.LinkedList;
 
-public class Main {
+public class B10798 {
     private static final int LINE_SIZE = 5;
     private static final int MAX_SIZE = 15;
 
