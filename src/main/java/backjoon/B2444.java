@@ -1,6 +1,7 @@
+package backjoon;
 import java.io.*;
 
-public class Main {
+public class B2444 {
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static int numbers;
