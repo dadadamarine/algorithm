@@ -1,8 +1,9 @@
+package backjoon;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class B2751 {
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static int numbers;
@@ -34,5 +35,6 @@ public class Main {
     }
 
 }
+
 
 
