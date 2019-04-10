@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f25811ff-73f0-490e-aa37-86c9c393977f" name="Default Changelist" comment="feature : B2902 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/backjoon/B1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/backjoon/B2902.java" afterDir="false" />
+    <list default="true" id="f25811ff-73f0-490e-aa37-86c9c393977f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            <state relative-caret-position="221">
+              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -262,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554864168953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554864193502" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -387,7 +384,7 @@
       <workItem from="1553770374891" duration="14837000" />
       <workItem from="1554690523073" duration="6149000" />
       <workItem from="1554719926542" duration="5000" />
-      <workItem from="1554857102256" duration="5941000" />
+      <workItem from="1554857102256" duration="5966000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 : 정렬 ( RadixSort ) 추가">
       <created>1548146454241</created>
@@ -599,11 +596,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554705042735</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="feature : B2902, B1260 추가">
+      <created>1554864184869</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1554864184869</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195230000" />
+    <option name="totallyTimeSpent" value="195255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -693,8 +697,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: 2941 추가" />
-    <MESSAGE value="add: 1489 추가" />
     <MESSAGE value="add : 5430풀이 추가&#10;1. 시간초과 뜸.&#10;2. split -&gt; StringTokenizer변경" />
     <MESSAGE value="fix : 5430풀이 변경&#10;3. reversed 상태변수 추가" />
     <MESSAGE value="add : B3985" />
@@ -718,7 +720,9 @@
     <MESSAGE value="feature : B2743, B1100추가" />
     <MESSAGE value="feature : B1032추가" />
     <MESSAGE value="feature : B1475 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature : B1475 추가" />
+    <MESSAGE value="feature : B2902, B126 추가" />
+    <MESSAGE value="feature : B2902, B1260 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature : B2902, B1260 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1134,8 +1138,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
