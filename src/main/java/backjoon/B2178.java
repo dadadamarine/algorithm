@@ -1,9 +1,10 @@
+package backjoon;
 import java.io.*;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class B2178 {
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     private static final int ROW = 0;
@@ -59,3 +60,4 @@ public class Main {
 
 
 }
+
