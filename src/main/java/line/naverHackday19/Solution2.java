@@ -1,10 +1,11 @@
+package line.naverHackday19;
 import java.util.HashSet;
 
-class Solution {
+class Solution2 {
 
     private static int maxDistantValues;
 
-    Solution() {
+    Solution2() {
         maxDistantValues = 0;
     }
 
@@ -36,11 +37,10 @@ class Solution {
         }
     }
 
+    public class Tree {
+        public int x;
+        public Tree l;
+        public Tree r;
+    }
 
-}
-
-class Tree {
-    public int x;
-    public Tree l;
-    public Tree r;
 }
