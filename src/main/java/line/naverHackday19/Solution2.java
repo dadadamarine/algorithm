@@ -4,7 +4,6 @@ import java.util.HashSet;
 class Solution2 {
 
     private static int maxDistantValues;
-
     Solution2() {
         maxDistantValues = 0;
     }
