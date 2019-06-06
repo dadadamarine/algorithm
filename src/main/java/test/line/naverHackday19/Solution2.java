@@ -1,4 +1,4 @@
-package line.naverHackday19;
+package test.line.naverHackday19;
 import java.util.HashSet;
 
 class Solution2 {

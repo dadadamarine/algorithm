@@ -1,4 +1,4 @@
-package line.naverHackday19;
+package test.line.naverHackday19;
 
 class Solution1 {
     private int DICE_MAX = 6;

@@ -11,9 +11,9 @@
 //        long[][] arr = new long[n][2];
 //
 //        for (int i = 0; i < n; i++) {
-//            String line = br.readLine();
-//            arr[i][0] = Integer.parseInt(line.split(" ")[0]);
-//            arr[i][1] = Integer.parseInt(line.split(" ")[1]);
+//            String test.line = br.readLine();
+//            arr[i][0] = Integer.parseInt(test.line.split(" ")[0]);
+//            arr[i][1] = Integer.parseInt(test.line.split(" ")[1]);
 //        }
 //        arr = main.sort(arr, n);
 //        br.close();

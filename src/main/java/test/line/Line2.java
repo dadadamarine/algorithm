@@ -10,19 +10,19 @@
 //
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
-//        String line = sc.nextLine();
+//        String test.line = sc.nextLine();
 //        String print = "";
 //        try {
-//            print = toGoodFormat(line);
+//            print = toGoodFormat(test.line);
 //        } catch (RuntimeException e) {
 //            print = "error";
 //        }
 //        System.out.println(print);
 //    }
 //
-//    private static String toGoodFormat(String line) {
-//        Queue<String> stringQueue = toStringQueue(line);
-//        Queue<Integer> integerQueue = toIntegerQueue(line);
+//    private static String toGoodFormat(String test.line) {
+//        Queue<String> stringQueue = toStringQueue(test.line);
+//        Queue<Integer> integerQueue = toIntegerQueue(test.line);
 //
 //        System.out.println(stringQueue);
 //        System.out.println(integerQueue);
@@ -51,8 +51,8 @@
 //        return next.toString();
 //    }
 //
-//    private static Queue<String> toStringQueue(String line) {
-//        Matcher stringMatcher = stringPattern.matcher(line);
+//    private static Queue<String> toStringQueue(String test.line) {
+//        Matcher stringMatcher = stringPattern.matcher(test.line);
 //        Queue<String> stringQueue = new LinkedList<>();
 //        while (stringMatcher.find()) {
 //            stringQueue.add(stringMatcher.group());
@@ -60,8 +60,8 @@
 //        return stringQueue;
 //    }
 //
-//    private static Queue<Integer> toIntegerQueue(String line) {
-//        Matcher integerMatcher = numberPattern.matcher(line);
+//    private static Queue<Integer> toIntegerQueue(String test.line) {
+//        Matcher integerMatcher = numberPattern.matcher(test.line);
 //        Queue<Integer> integerQueue = new LinkedList<>();
 //        while (integerMatcher.find()) {
 //            integerQueue.add(Integer.parseInt(integerMatcher.group()));

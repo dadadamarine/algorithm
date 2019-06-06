@@ -28,19 +28,19 @@
 //    }
 //    public static String[] changeMark(int n, String[] array){
 //        String[] answer = new String[n];
-//        String line;
+//        String test.line;
 //        for(int i =0; i< n; i++){
-//            line = "";
+//            test.line = "";
 //            for(int k=0; k<n; k++){
 //                switch(array[i].charAt(k)){
 //                    case '1' :
-//                        line += "#";
+//                        test.line += "#";
 //                        break;
 //                    default :
-//                        line +=" ";
+//                        test.line +=" ";
 //                }
 //            }
-//            answer[i] = line;
+//            answer[i] = test.line;
 //            System.out.println(answer[i]);
 //        }
 //        return answer;

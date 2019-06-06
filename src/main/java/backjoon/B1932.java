@@ -12,9 +12,9 @@
 //
 //
 //        for(int i=0; i<n; i++){
-//            String[] line = bufferedReader.readLine().split(" ");
+//            String[] test.line = bufferedReader.readLine().split(" ");
 //            for(int k =0; k<i+1; k++){
-//                triangleArray[i][k] = Integer.parseInt(line[k]);
+//                triangleArray[i][k] = Integer.parseInt(test.line[k]);
 //            }
 //        }
 //        triangleSumArray[0][0] = triangleArray[0][0];
