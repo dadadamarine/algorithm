@@ -2,13 +2,13 @@
 //import java.util.Collections;
 //import java.util.LinkedList;
 //
-//public class Solution {
+//public class Kakao2019.Solution4 {
 //    private static final int TESTCASES = 10;
 //    private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //    private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 //
 //    public static void main(String[] args) throws IOException {
-//        Solution main = new Solution();
+//        Kakao2019.Solution4 main = new Kakao2019.Solution4();
 //        for (int i = 0; i < TESTCASES; i++) {
 //            int buildingCount = toInt(br.readLine());
 //            int result = 0;

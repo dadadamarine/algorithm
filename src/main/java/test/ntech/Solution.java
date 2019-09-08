@@ -1,10 +1,10 @@
 //
-//class Solution {
+//class Kakao2019.Solution4 {
 //
 //    int waterMount = 0;
 //
 //    public static void main(String[] args) {
-//        Solution solution = new Solution();
+//        Kakao2019.Solution4 solution = new Kakao2019.Solution4();
 //        int solution1 = solution.solution(new int[]{0, 2, 0, 1, 3, 1, 2, 0, 1, 0, 2, 0});
 //        System.out.println(solution1);
 //    }
@@ -52,9 +52,9 @@
 //}
 //
 //
-////class Solution {
+////class Kakao2019.Solution4 {
 ////    public static void main(String[] args) {
-////        Solution solution = new Solution();
+////        Kakao2019.Solution4 solution = new Kakao2019.Solution4();
 ////        String solution1 = solution.solution("PM 01:00:00", "AM 01:00:00");
 ////        System.out.println(solution1);
 ////    }
@@ -124,9 +124,9 @@
 ////}
 //
 //
-////class Solution {
+////class Kakao2019.Solution4 {
 ////    public static void main(String[] args) {
-////        Solution solution = new Solution();
+////        Kakao2019.Solution4 solution = new Kakao2019.Solution4();
 ////        System.out.println(solution.solution("aAb"));
 ////    }
 ////

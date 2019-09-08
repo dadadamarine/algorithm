@@ -106,6 +106,7 @@ public class Heap {
         minHeap.insert(22);
         minHeap.insert(9);
         minHeap.print();
+
         System.out.println("The Min val is " + minHeap.remove());
     }
 }

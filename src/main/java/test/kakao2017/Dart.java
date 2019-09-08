@@ -1,4 +1,4 @@
-//class Solution {
+//class Kakao2019.Solution4 {
 //    public static final int COUNT = 3;
 //
 //    public int solution(String dartResult) {

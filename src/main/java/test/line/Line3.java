@@ -1,6 +1,6 @@
 //import java.util.*;
 //
-//public class Solution {
+//public class Kakao2019.Solution4 {
 //    private static Scanner sc = new Scanner(System.in);
 //
 //    public static void main(String[] args) {

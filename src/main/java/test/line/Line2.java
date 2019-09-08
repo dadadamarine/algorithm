@@ -4,7 +4,7 @@
 //import java.util.regex.Matcher;
 //import java.util.regex.Pattern;
 //
-//public class Solution {
+//public class Kakao2019.Solution4 {
 //    static Pattern stringPattern = Pattern.compile("[A-Z][a-z]*");
 //    static Pattern numberPattern = Pattern.compile("[0-9]");
 //
