@@ -149,7 +149,7 @@ public class Btree {
     }
 
     /**
-     * Name: insert
+     * Name: push
      * Desc: Insert a new value into the tree. This does not handle the case where
      *          the value already exists in the tree.
      */

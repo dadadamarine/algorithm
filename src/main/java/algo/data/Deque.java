@@ -122,7 +122,7 @@ public class Deque {
         System.out.println("Insert element at rear end  : 5 ");
         dq.insertRear(5);
 
-        System.out.println("insert element at rear end : 10 ");
+        System.out.println("push element at rear end : 10 ");
         dq.insertRear(10);
 
         System.out.println("get rear element : "+ dq.getRear());
