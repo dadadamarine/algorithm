@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25811ff-73f0-490e-aa37-86c9c393977f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kakao2019/Solution3$CustomException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kakao2019/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/algo/LRUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/algo/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/algo/data2/MaxHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/algo/sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/Coordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/CoordinateArraySequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/CoordinateArraySequenceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/CoordinateSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/CoordinateSequenceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/PackedCoordinateSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/PackedCoordinateSequenceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/factorymethod/ARobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/factorymethod/BRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/factorymethod/FactoryMethodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/factorymethod/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algo/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algo/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/Singleton.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -114,8 +96,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/singleton/Singleton.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+                <state relative-caret-position="68">
+                  <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
                   <folding>
                     <element signature="e#137#138#0" expanded="true" />
                     <element signature="e#172#173#0" expanded="true" />
@@ -192,8 +174,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="121">
-                  <caret line="35" selection-start-line="35" selection-end-line="35" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#264#265#0" expanded="true" />
@@ -372,6 +354,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -391,7 +381,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568155552616" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568155906470" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -561,7 +551,7 @@
       <workItem from="1558617239038" duration="2306000" />
       <workItem from="1559782730739" duration="7580000" />
       <workItem from="1560252449306" duration="7923000" />
-      <workItem from="1567629703735" duration="34479000" />
+      <workItem from="1567629703735" duration="34829000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 : 정렬 ( RadixSort ) 추가">
       <created>1548146454241</created>
@@ -843,11 +833,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568102930479</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="feature : 디자인 패턴 연습">
+      <created>1568155577687</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1568155577687</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282358000" />
+    <option name="totallyTimeSpent" value="282708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -860,7 +857,7 @@
       <window_info id="Designer" order="4" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15995117" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32834226" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32834226" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50061053" side_tool="true" weight="0.38502672" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.28342247" />
@@ -938,7 +935,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feature : B11021추가" />
     <MESSAGE value="feature : B10952추가" />
     <MESSAGE value="feature : B10953추가" />
     <MESSAGE value="feature : B14581 추가" />
@@ -963,7 +959,8 @@
     <MESSAGE value="feature : quickSort코드 작성 연습" />
     <MESSAGE value="feature : heap 코드작성 연습" />
     <MESSAGE value="feature : LRU 코드 작성 연습" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature : LRU 코드 작성 연습" />
+    <MESSAGE value="feature : 디자인 패턴 연습" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature : 디자인 패턴 연습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1346,22 +1343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/abstractfactory/Coordinate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1429,11 +1410,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designpattern/singleton/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="e#137#138#0" expanded="true" />
             <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
           </folding>
         </state>
       </provider>
