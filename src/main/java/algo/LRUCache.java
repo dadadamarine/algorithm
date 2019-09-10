@@ -1,7 +1,5 @@
 package algo;
 
-import java.util.HashMap;
-import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -35,6 +33,7 @@ public class LRUCache {
     public void set(int value) {
         if(map.containsKey(value)){
             get(value);
+
             return;
         }
         if(map.size()<capacity){
