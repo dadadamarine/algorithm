@@ -33,7 +33,6 @@ public class LRUCache {
     public void set(int value) {
         if(map.containsKey(value)){
             get(value);
-
             return;
         }
         if(map.size()<capacity){
